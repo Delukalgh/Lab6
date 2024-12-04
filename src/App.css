@@ -1,0 +1,10 @@
+.btn_container {
+    display: flex;
+    gap: 20px;
+}
+
+.btn {
+    background: #d1cae6;
+    padding: 20px;
+    color: #000;
+}
